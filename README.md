@@ -2,10 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=William+Lee;I+am+a+Full+Stack+Web+Developer;Over+6+years+of+Experience+in+Web." alt="Typing SVG" /></a>
 </div>
 
-- 🤝 I have been working as freelancer at [Upwork](https://documents.sagarvaghela.com/upwork)
-
-- 👨‍💻 All of my projects and portfolio are available at [https://www.sagarvaghela.com](https://www.sagarvaghela.com)
-
 - 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd**
 
 - 📫 How to reach me **damnbunny@hotmail.com** or **ftorjob@gmail.com**
