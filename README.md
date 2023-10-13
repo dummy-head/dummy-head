@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd**
 
-- 📫 How to reach me **damnbunny@hotmail.com** or **ftorjob@gmail.com**
+- 📫 How to reach me **williamlee0121.sw@gmail.com**
 
 ## Prefered Technicals
 <p align="center">
